@@ -77,3 +77,4 @@ The dashboard is organized across **5 interactive pages:**
 6. Which platform has the highest average CPM and what does that mean for cost efficiency?
 
 ## 📸 Dashboard Screenshots
+![Digital Marketing Sales Analysis Overview](https://github.com/vaibhavichavan/Digital-Marketing-Sales-Analysis/blob/main/Dashboard.pdf)
